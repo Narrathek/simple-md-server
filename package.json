@@ -1,0 +1,13 @@
+{
+  "name": "simple-md-server",
+  "version": "0.0.1",
+  "repository": "https://github.com/Narrathek/simple-md-server",
+  "description": "Express Markdown Server: Host &amp; display Markdown files as styled web pages with real-time updates. Simple setup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Simon Petereit",
+  "license": "MIT"
+}
